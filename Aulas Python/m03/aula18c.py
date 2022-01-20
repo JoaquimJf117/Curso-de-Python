@@ -1,0 +1,10 @@
+print('=' * 15, '\033[1;35mAULA 18 - Listas[Testes]\033[m', '=' * 15)
+galera = list()
+dado = list()
+for c in range(0, 3):
+    dado.append(str(input('Nome: ')))
+    dado.append(int(input('Idade: ')))
+    print('-='*15)
+    galera.append(dado[:])
+    dado.clear()
+print(galera)

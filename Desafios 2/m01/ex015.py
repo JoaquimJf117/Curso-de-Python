@@ -1,0 +1,6 @@
+print('\033[32;1mDESAFIO 14 - Aluguel de Carro\033[m')
+print('\033[32;1mALUNO:\033[m \033[36;1mJoaquim Fernandes\033[m')
+dias = int(input('Quantos Dias Alugados: '))
+km = float(input('Quantos Km Rodados: '))
+pago = (dias * 60) + (km * 0.15)
+print(f'O Total a pagar é de R${pago:.2f}')
