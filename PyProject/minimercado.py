@@ -24,7 +24,7 @@ while True:
             if pos % 2 == 0:
                 print(f'{mescola[pos]:.<30}', end='')
             else:
-                print(f'{mescola[pos]:.>10.2f}Kz')
+                print(f'{mescola[pos]:.>10}Kz')
     elif opcao == 2:
         print('-' * 45)
         print(f'\033[32;1m{"SECTOR B":^40}\033[m')
@@ -41,7 +41,7 @@ while True:
             if item % 2 == 0:
                 print(f'{mcons[item]:.<30}', end='')
             else:
-                print(f'{mcons[item]:.>10.2f}Kz')
+                print(f'{mcons[item]:.>10}Kz')
     elif opcao == 3:
         print('-' * 45)
         print(f'\033[32;1m{"SECTOR C":^40}\033[m')
@@ -58,7 +58,7 @@ while True:
             if item % 2 == 0:
                 print(f'{melec[item]:.<30}', end='')
             else:
-                print(f'{melec[item]:.>10.2f}')
+                print(f'{melec[item]:.>10}')
     elif opcao == 4:
         break
-print('\033[34mObrigado Pela Preferencia! Volte Sempre...')
+print('\033[34mObrigado Pela Preferência! Volte Sempre...')

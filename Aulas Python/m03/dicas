@@ -1,0 +1,28 @@
+                        Dicas ===> Tuplas[Testes] <> Listas[Testes]
+------------------------------------------------------------------------------------------
+Dica[Tuplas] => Tuplas são Importantes para guardar Elementos! Ex:('Hamburger', 'Suco', 'Pizza', 'Pudim')
+Dica[Listas] =>
+----------------------------------------------------
+Para adicionar um Elemento dentro das Listas Usamos:
+append() ex: lanche.append('pão')
+insert() ex: insert(0, 'Brigadeiro')
+----------------------------------------------------
+Para Apagar um Elemento dentro da Lista Usamos:
+del[] ex: del lanche[3] --> Pela Chave
+pop() ex: lanche.pop[3] --> Pela Chave (Elimina o ultimo elemento)
+remove() ex: lanche.remove['pizza'] --> Eliminar pelo Valor
+-----------------------------------------------------
+Criando Listas usando range(0, 11)
+valores = list(range(4, 11))
+----------------------------------------------------
+Ordenando Listas
+valores = [8, 2, 5, 4, 9, 3, 0]
+valores.sort() --> ex: [0, 2, 3, 4, 5, 8, 9]
+valores.sort(reverse=True) ex: [9, 8, 5, 4, 3, 2, 0]
+----------------------------------------------------
+Tamanho da Lista
+len(valores) --> ex: 7
+----------------------------------------------------
+Diferênça entre Listas e Tuplas:
+Listas são Mutáveis
+Tuplas são Imutáveis
