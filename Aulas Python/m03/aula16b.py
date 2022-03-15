@@ -1,4 +1,5 @@
-print('='*15, '\033[1;35mAULA 16 - Tuplas[Testes]\033[m', '='*15)
-# Tuplas são IMUTÁVEIS
-lanche = ('Hambúrguer', 'Suco', 'Pizza', 'Pudim', 'Batata Frita')
-print(sorted(lanche))  # Sorted ordena os elementos dentro da Tupla
+a = 2, 5, 4
+b = 5, 8, 1, 2
+c = b + a
+print(c)
+print(c.index(4))

@@ -1,10 +1,6 @@
-print('=' * 15, '\033[1;35mAULA 18 - Listas[Testes]\033[m', '=' * 15)
-galera = list()
-dado = list()
-for c in range(0, 3):
-    dado.append(str(input('Nome: ')))
-    dado.append(int(input('Idade: ')))
-    print('-='*15)
-    galera.append(dado[:])
-    dado.clear()
-print(galera)
+print('=' * 15, '\033[1;35mAULA 18 - Listas[Part #2]\033[m', '=' * 15)
+# --------------------------------------------------------------------
+galera = [['João', 13], ['Ana', 33], ['Joaquim', 19], ['Maria', 45]]
+# --------------------------------------------------------------------
+for p in galera:
+    print(f'{p[0]} tem {p[1]} anos de Idade')
