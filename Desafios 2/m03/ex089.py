@@ -15,7 +15,7 @@ while True:
         break
 print('-'*50)
 print(f'{"Nº":<5} {"Nome":^15} {"MÉDIA":>15}')
-print('-'*40)
+print('-'*50)
 for i, a in enumerate(alunos):
     print(f'{i:<5}{a[0]:^15}{a[2]:>15.1f}')
 while True:
