@@ -2,7 +2,7 @@
 Tuplas () => são inmutáveis
 Listas [] => são mutáveis
 append('cock') => adiciona um elemento no fim da lista.
-insert(0, 'hatdog') => adiciona um elemento no inicio da lista.
+insert(0, 'hotdog') => adiciona um elemento no inicio da lista.
 del lanche[3] => elimina o elemento desejado.
 lanche.pop(3) => elimina o ultimo elemento.(pop())
 lanche.remove('pizza') => elimina o elemento dentro da lista.
