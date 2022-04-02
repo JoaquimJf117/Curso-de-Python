@@ -8,8 +8,6 @@ print('-' * 50)
 # ---------- Variavéis ----------
 contas = ['Nome Completo: ',
           'Data de Nascimento: ',
-          # 'Graduação: ',
-          # 'Experiência Profissional: ',
           'Depósito Inicial: ']
 usuarios = list()
 senhas = []
@@ -24,7 +22,7 @@ while True:
     escolha = int(input('\033[1;34mPrima a Tecla Desejada: \033[m'))
     if escolha == 1:
         print('-' * 50)
-        print(f'{"FICHA DE INSCRIÇÂO":^50}')
+        print(f'{"FICHA DE INSCRIÇÃO":^50}')
         print('-' * 50)
         contas[0] = str(input('Nome Completo: ')).split()
         contas[1] = int(input('Ano de Nascimento: '))
@@ -37,7 +35,7 @@ while True:
         print('-' * 50)
         sleep(.7)
         usuarios.append(contas[:])
-        # print(usuarios)
+        # print(usuários)
     elif escolha == 2:
         user = input('Nome do Usuário: ')
         if user not in contas:
@@ -57,12 +55,7 @@ while True:
         print('Consulta de Conta')
         print(f'Nome Completo: {contas[0]}')
         print(f'Data de Nascimento: {contas[1]}')
-        # print(f'Graduação: {contas[2]}ª Classe [Médio Concluido]')
-        # print(f'Experiência Profissional: {contas[3]} Anos')
         print(f'Saldo na Conta: {contas[2]}AOA')
-        # print(f'BI Nº: {contas[5]}')
-        # print(f'Nº Conta: {contas[6]}')
-        # print(f'IBAN: {contas[7]}')
         usuarios.append(contas[:])
         print('-' * 50)
     elif escolha == 4:

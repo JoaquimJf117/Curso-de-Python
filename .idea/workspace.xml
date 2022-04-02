@@ -2,86 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d0500d9-9f2d-417d-a321-072745074eea" name="Default Changelist" comment="estudando dicionário">
-      <change afterPath="$PROJECT_DIR$/Desafios 2/m03/ex094.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/cores.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/dicas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 10/d0028.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 10/d0029.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 10/d0030.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 10/d0031.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 10/d0031b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 10/d0032.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 10/d0033.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 10/d0034.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 10/d0035.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 4/d0001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 4/d0002.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 6/d0003.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 6/d0004.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 7/d0005.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 7/d0006.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 7/d0007.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 7/d0008.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 7/d0009.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 7/d0010.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 7/d0011.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 7/d0012.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 7/d0013.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 7/d0014.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 7/d0015.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 9/d0022.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 9/d0023.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 9/d0024.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 9/d0025.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 9/d0026.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m01/aula 9/d0027.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 12/d036.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 12/d037.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 12/d038.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 12/d039.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 12/d040.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 12/d041.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 12/d042.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 12/d043.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 12/d044.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 13/d046.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 13/d047.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 13/d048.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 13/d049.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 13/d050.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 13/d051.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 13/d052.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 13/d053.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 13/d054.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 13/d055.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 13/d056.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 14/d057.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 14/d058.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 14/d059.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 14/d060.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 14/d060a.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 14/d061&amp;62.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 14/d063.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 14/d064.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 14/d065.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 15/d066.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 15/d067.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 15/d068.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 15/d069.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 15/d070.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m02/aula 15/d071.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m03/aula 16/d072.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m03/aula 16/d073.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m03/aula 16/d074.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m03/aula 16/d075.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m03/aula 16/d076.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m03/aula 16/d077.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m03/aula 17/d078.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m03/aula 17/d079.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m03/aula 17/d080.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m03/aula 17/d081.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios Python/desafios/m03/aula 17/d082.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyProject/jf bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyProject/jf bank.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,28 +61,7 @@
       <recent name="C:\Users\Joaquim JF\Documents\GitHub\Curso-de-Python\Desafios Python\m01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex094">
-    <configuration name="ex007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Curso-de-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios Python/m01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios Python/m01/ex007.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex01">
     <configuration name="ex008" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-de-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,6 +96,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios Python/m01/ex009.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso-de-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyProject/ex01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex01" />
         <item itemvalue="Python.ex094" />
         <item itemvalue="Python.ex010" />
         <item itemvalue="Python.ex009" />
         <item itemvalue="Python.ex008" />
-        <item itemvalue="Python.ex007" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648331738591</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="estudando dicionário">
+      <created>1648922265127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648922265127</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
