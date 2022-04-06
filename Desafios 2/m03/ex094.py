@@ -1,4 +1,4 @@
-print('\033[32;1mDESAFIO 93 - Cadastro de Jogador de Futebol\033[m')
+print('\033[32;1mDESAFIO 94 - Unindo Dicionários e Listas\033[m')
 print('\033[32;1mALUNO:\033[m \033[36;1mJoaquim Fernandes\033[m')
 print('-' * 50)
 # -----------------------------------------------------------------------
