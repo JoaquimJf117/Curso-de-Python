@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d0500d9-9f2d-417d-a321-072745074eea" name="Default Changelist" comment="estudando dicionário">
-      <change afterPath="$PROJECT_DIR$/Desafios 2/m03/ex095.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios 2/m03/ex094.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios 2/m03/ex094.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios 2/m03/ex095.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios 2/m03/ex095.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,7 @@
       <filtered-out-file-type name="REMOTE_BRANCH" />
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+      <filtered-out-file-type name="COMMIT_BY_HASH" />
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -178,6 +178,20 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SearchEverywhereConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="com.intellij.ide.actions.searcheverywhere.CalculatorSEContributor" />
+      <filtered-out-file-type name="TopHitSEContributor" />
+      <filtered-out-file-type name="RecentFilesSEContributor" />
+      <filtered-out-file-type name="ClassSearchEverywhereContributor" />
+      <filtered-out-file-type name="FileSearchEverywhereContributor" />
+      <filtered-out-file-type name="SymbolSearchEverywhereContributor" />
+      <filtered-out-file-type name="RunConfigurationsSEContributor" />
+      <filtered-out-file-type name="ActionSearchEverywhereContributor" />
+      <filtered-out-file-type name="Vcs.Git" />
+      <filtered-out-file-type name="YAMLKeysSearchEverywhereContributor" />
+    </file-type-list>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -222,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648925233792</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="estudando dicionário">
+      <created>1649283799197</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649283799197</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
