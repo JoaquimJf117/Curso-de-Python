@@ -1,0 +1,27 @@
+Função é uma "ROTINA"
+def: Definição de Função.
+Algumas Funções em Python: print(), len(), input(), int(), float() --> Funções já Existente.
+# -------------------------------------------------------------------------------------------
+Todas Funções em Python são Identificadas por Parêntese no final do nome.
+entre o def e o Programa principal tem que ter 2 linhas separando
+Criando função:
+def mostraLinha():
+    print('-------------------------------------------')
+
+
+mostraLinha()
+print('  Curso em Video   ')
+mostraLinha()
+print('  Aprenda Python   ')
+mostraLinha()
+# -------------------------------------------------------------------------------------------
+def com parâmetro:
+def mensagem(msg):
+    print('-------------------------')
+    print(msg)
+    print('-------------------------')
+mensagem('Sistema de Alunos')
+# -------------------------------------------------------------------------------------------
+Empacotamento de Parâmetro
+* -> desempacotar dentro de num
+def contador(*num):
