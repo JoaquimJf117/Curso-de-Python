@@ -1,0 +1,5 @@
+print('\033[32;1mDESAFIO 13 - Reajuste Salárial\033[m')
+print('\033[32;1mALUNO:\033[m \033[36;1mJoaquim Fernandes\033[m')
+salario = float(input('Qual é o Salário Atual do Funcionário? R$ '))
+novosal = salario + (salario * 15 / 100)
+print(f'Um Funcionário que Ganhava R${salario:.2f}, com 15% de Aumento passará a Ganhar R${novosal:.2f}')

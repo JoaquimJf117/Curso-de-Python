@@ -1,0 +1,5 @@
+print('\033[32;1mDESAFIO 12 - Calculando Descontos\033[m')
+print('\033[32;1mALUNO:\033[m \033[36;1mJoaquim Fernandes\033[m')
+preco = float(input('Qual é o Preço do Produto? R$ '))
+desconto = preco - (preco * 5 / 100)
+print(f'O Produto que custava R${preco:.2f}, na Promoção com Desconto de 5% vai Custar R${desconto:.2f}')

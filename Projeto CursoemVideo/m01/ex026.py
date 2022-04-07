@@ -1,0 +1,6 @@
+print('\033[32;1mDESAFIO 26 - Ocorrência de uma String\033[m')
+print('\033[32;1mALUNO:\033[m \033[36;1mJoaquim Fernandes\033[m')
+frase = str(input('Digite uma Frase: ')).strip().upper()
+print(f'A letra \033[33;1mA\033[m aparece {frase.count("A")} vezes na Frase.')
+print(f'A primeira letra \033[33;1mA\033[m apareceu na Posição {frase.find("A")+1}')
+print(f'A última letra \033[33;1mA\033[m apareceu na Posição {frase.rfind("A")+1}')
