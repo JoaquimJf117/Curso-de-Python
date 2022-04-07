@@ -1,0 +1,9 @@
+                            >>><<< Curso de Python >>><<<
+> Interactive Help
+> docstrings
+> Argumentos opcionais
+> Escopo de Variáveis
+> Retorno de Resultados
+# --------------------------------------------------------------------------------
+                           >>>><<<< Interactive Help >>>><<<<
+Para acessar a "Ajuda Interactiva" basta usar a função help().
