@@ -1,7 +1,0 @@
-print('\033[32;1mDESAFIO 27 - Primeiro e Último Nome\033[m')
-print('\033[32;1mALUNO:\033[m \033[36;1mJoaquim Fernandes\033[m')
-nome = str(input('Digite seu Nome Completo: ')).strip()
-n = nome.split()
-print('Muito Prazer em te Conhecer!')
-print(f'Seu Primeiro Nome é {n[0]}')
-print(f'Seu último Nome é {n[len(n)-1]}')
