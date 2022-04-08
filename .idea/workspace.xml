@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d0500d9-9f2d-417d-a321-072745074eea" name="Default Changelist" comment="def's [interative, escopo, docstring]">
-      <change afterPath="$PROJECT_DIR$/Aulas Python/m03/aula21[Exercicio].py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas Python/m03/aula21e(RetornandoValores).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas Python/m03/aula21d2(EscopoDeVariável).py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas Python/m03/aula21d2(EscopoDeVariável).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -289,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649376094812</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="def's [interative, escopo, docstring]">
+      <created>1649376983676</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1649376983676</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
