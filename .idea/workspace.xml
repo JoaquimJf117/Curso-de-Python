@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d0500d9-9f2d-417d-a321-072745074eea" name="Default Changelist" comment="estudando dicionário">
-      <change afterPath="$PROJECT_DIR$/Aulas Python/m03/aula21" afterDir="false" />
+    <list default="true" id="7d0500d9-9f2d-417d-a321-072745074eea" name="Default Changelist" comment="apagando">
+      <change afterPath="$PROJECT_DIR$/Aulas Python/m03/aula21a(help).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Python/m03/aula21b(docstring).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Python/m03/aula21c(ParâmetroOpcionais).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Python/m03/aula21d(EscopoDeVariável).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Python/m03/aula21d2(EscopoDeVariável).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +67,8 @@
       <recent name="C:\Users\Joaquim JF\Documents\GitHub\Curso-de-Python\Desafios Python\m01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex100">
-    <configuration name="aula14a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.aula21d2(EscopoDeVariável)">
+    <configuration name="aula21a(help)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-de-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas Python/m02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas Python/m03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas Python/m02/aula14a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas Python/m03/aula21a(help).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex097" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula21c(ParâmetroOpcionais)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-de-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios 2/m03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas Python/m03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios 2/m03/ex097.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas Python/m03/aula21c(ParâmetroOpcionais).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex098" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula21d2(EscopoDeVariável)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-de-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios 2/m03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas Python/m03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios 2/m03/ex098.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas Python/m03/aula21d2(EscopoDeVariável).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex099" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula21d(EscopoDeVariável)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-de-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios 2/m03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas Python/m03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios 2/m03/ex099.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas Python/m03/aula21d(EscopoDeVariável).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula21d2(EscopoDeVariável)" />
+        <item itemvalue="Python.aula21d(EscopoDeVariável)" />
+        <item itemvalue="Python.aula21c(ParâmetroOpcionais)" />
+        <item itemvalue="Python.aula21a(help)" />
         <item itemvalue="Python.ex100" />
-        <item itemvalue="Python.ex099" />
-        <item itemvalue="Python.ex098" />
-        <item itemvalue="Python.aula14a" />
-        <item itemvalue="Python.ex097" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649372797011</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="apagando">
+      <created>1649373181775</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1649373181775</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -300,6 +312,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="estudando dicionário" />
-    <option name="LAST_COMMIT_MESSAGE" value="estudando dicionário" />
+    <MESSAGE value="apagando" />
+    <option name="LAST_COMMIT_MESSAGE" value="apagando" />
   </component>
 </project>
