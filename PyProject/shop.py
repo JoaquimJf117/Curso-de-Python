@@ -5,7 +5,7 @@ print('=' * 50)
 produtos = {'Computador Asus': 320000,
             'Teclado': 3500,
             'Mouse': 2500,
-            'Pendrive': 4000,
+            'Pen drive': 4000,
             'Monitor': 20000,
             'CPU HP i3': 80000,
             'CPU HP i5': 120000,
