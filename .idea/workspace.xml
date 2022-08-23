@@ -2,17 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d0500d9-9f2d-417d-a321-072745074eea" name="Default Changelist" comment="def's [interative, escopo, docstring]">
-      <change afterPath="$PROJECT_DIR$/Desafios 2/m03/ex103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios 2/m03/ex104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios 2/m03/ex105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios 2/m03/ex106.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Curso-de-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curso-de-Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Python/Aula22 [Modularização]/introducao.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Python/Aula22 [Modularização]/modulos/numeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Python/Aula22 [Modularização]/modulos/uteis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Python/Aula22 [Modularização]/modulos/uteis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Python/Aula22 [Modularização]/modulos/uteis/datas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Python/Aula22 [Modularização]/modulos/uteis/numeros/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Python/Aula22 [Modularização]/modulos/uteis/strings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Python/Aula23[Tratamentos de Erros e Exceções]/introducao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Python/Aula23[Tratamentos de Erros e Exceções]/teste1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios 2/m03/ex107/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios 2/m03/ex107/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios 2/m03/ex108/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios 2/m03/ex108/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios 2/m03/ex109/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios 2/m03/ex109/teste.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyProject/shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyProject/shop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/python.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +48,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Desafios 2/m03/ex093.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Desafios 2/m03/ex107/teste.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Desafios 2/m03/ex091.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Desafios 2/m03/ex108/teste.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Desafios Python/m01/ex011.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Desafios 2/m03/ex109/moeda.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Aulas Python/m03/aula21d2(EscopoDeVariável).py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="26tm7hQQIYTtm5yYpD4iWGPhsCB" />
@@ -57,6 +65,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -73,14 +82,14 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Joaquim Fernandes\Documents\GitHub\Curso-de-Python\Desafios 2\m03" />
+      <recent name="C:\Users\Joaquim Fernandes\Documents\GitHub\Curso-de-Python\Desafios 2\m03\ex107\ex107" />
+      <recent name="C:\Users\Joaquim Fernandes\Documents\GitHub\Curso-de-Python\Desafios 2\m03\ex108" />
       <recent name="C:\Users\Joaquim Fernandes\Documents\GitHub\Curso-de-Python\Desafios Python\m01" />
       <recent name="C:\Users\Joaquim JF\Documents\GitHub\Curso-de-Python\Desafios 2\m03" />
-      <recent name="C:\Users\Joaquim JF\Documents\GitHub\Curso-de-Python\Aulas Python\m03" />
-      <recent name="C:\Users\Joaquim JF\Documents\GitHub\Curso-de-Python\Desafios Python\m01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex106">
-    <configuration name="aula21e(RetornandoValores)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.teste1">
+    <configuration name="introducao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-de-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas Python/m03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas Python/Aula23[Tratamentos de Erros e Exceções]" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas Python/m03/aula21e(RetornandoValores).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas Python/Aula23[Tratamentos de Erros e Exceções]/introducao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex103" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-de-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios 2/m03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios 2/m03/ex108" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios 2/m03/ex103.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios 2/m03/ex108/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex104" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-de-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios 2/m03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios 2/m03/ex107" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios 2/m03/ex104.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios 2/m03/ex107/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex105" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-de-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios 2/m03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios 2/m03/ex109" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios 2/m03/ex105.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios 2/m03/ex109/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex106" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso-de-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios 2/m03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas Python/Aula23[Tratamentos de Erros e Exceções]" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios 2/m03/ex106.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas Python/Aula23[Tratamentos de Erros e Exceções]/teste1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex106" />
-        <item itemvalue="Python.ex105" />
-        <item itemvalue="Python.ex104" />
-        <item itemvalue="Python.ex103" />
-        <item itemvalue="Python.aula21e(RetornandoValores)" />
+        <item itemvalue="Python.teste1" />
+        <item itemvalue="Python.introducao" />
+        <item itemvalue="Python.teste (3)" />
+        <item itemvalue="Python.teste (1)" />
+        <item itemvalue="Python.teste (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652317798768</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="def's [interative, escopo, docstring]">
+      <created>1659134840717</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1659134840717</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,6 +374,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="estudando dicionário" />
     <MESSAGE value="apagando" />
     <MESSAGE value="def's [interative, escopo, docstring]" />

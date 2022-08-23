@@ -1,0 +1,25 @@
+-------------------------------- x ---------------------------------
+
+----- Modularização é o ato de criar Modulos <-----
+-> Surgiu no Inicio de década de 60
+-> Sistemas Ficando cada vez Maiores
+-> Foco1:: Dividir um Programa Grande
+-> Foco2:: Aumentar a Legibilidade
+-> Foco3:: Facilitar a Manutenção
+
+-----> Vantagens <-----
+--> Organização do Código
+--> Facilidade na Manutenção
+--> Ocultação de Código Detalhado
+--> Reutilização em outros projectos
+-------------------------------- x ---------------------------------
+
+
+                        |-----> Pacotes <-----|
+-> é uma Pasta que contém Módulos separados por Assuntos
+-----> pacote úteis
+-> números <- __init__.py
+-> datas <- __init__.py
+-> strings <- __init__.py
+-> cores <- __init__.py
+-> obs:: Existe uma sintaxe para nome de arquivo dentro de pacotes -> __init__.py
